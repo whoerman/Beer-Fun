@@ -1,0 +1,8 @@
+.navbar {
+    background-color:#edae2a;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    font-size: calc(2vmin);
+    color: white;
+  }
